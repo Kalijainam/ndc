@@ -16,4 +16,5 @@ redhat@123
 ```
 ```
 sudo docker pull jjainam217/myubuntu:v3
+sudo docker run -it jjainam217/myubuntu:v3
 ```
