@@ -1,3 +1,4 @@
+```
 sudo apt remove docker docker-engine docker.io containerd runc
 sudo apt update
 sudo apt install ca-certificates curl
@@ -12,3 +13,4 @@ docker login
 redhat@123
 
 sudo docker pull jjainam217/myubuntu:v3
+```
