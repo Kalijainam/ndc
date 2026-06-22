@@ -12,6 +12,7 @@ sudo usermod -aG docker $USER
 docker login
 ```
 ```
+jjainam217@gmail.com
 redhat@123
 ```
 ```
